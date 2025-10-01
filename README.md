@@ -1,8 +1,14 @@
 # Sistema de Gerenciamento de Projetos e Tarefas
 
----
+### Projeto de Orientação a Objetos (O.O.) em Python para gerenciar projetos e tarefas com operações CRUD (Create, Read, Update, Delete). 
 
-### Projeto de Orientação a Objetos (O.O.) em Python para gerenciar projetos e tarefas com operações CRUD (Create, Read, Update, Delete). Utiliza a biblioteca Streamlit para visualização interativa em uma interface web.
+Utilizando a biblioteca Streamlit para visualização interativa em uma interface web.
+
+--- 
+
+### Visualização
+
+<img width="371" height="454" alt="Image" src="https://github.com/user-attachments/assets/c6b53390-ccfd-4ea5-b3b1-c81dd1d1ca2c" />
 
 ---
 
@@ -25,9 +31,9 @@
 
 Abra o link fornecido pelo Streamlit: `http://localhost:8501` ou, se hospedado no Streamlit Community Cloud.
 
---- 
+---
 
-# Autoras
+### Autoras
 
 Projeto devenvolvido em dupla por Alexsandra e Luciana - Out/25
 
